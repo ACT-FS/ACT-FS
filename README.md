@@ -1,4 +1,5 @@
-# Hello World !! 🌎
+<h1 align="center">Hello World !! 🌎</h1>  
+
 ## ¿Quien soy? / Who i am? 😁
 ### Mi nombre es Alejandro Carpintero y soy un creador y desarrollador web que se dedica tanto a crear como a innovar en el entorno web
 My name is Alejandro Carpintero, and I am a web creator and developer dedicated to both creating and innovating in the web environment
@@ -13,7 +14,7 @@ Not at the moment, but I would truly love to be part of a project or work with a
 Learn from the best, in addition to creating web pages, and also as free time, clear my mind a bit by admiring the code that nature has left us.
 
 # Fanatico de estos grandes / Fan of these greats 🚀🔝
-<div style="display: flex; gap: 10px;">
+<div align="center"; style="display: flex; gap: 10px; ;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
